@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/snyk-labs/modern-npm-package.git"
+    "url": "https://github.com/efleurine/modern-npm-package"
   },
   "keywords": [
     "npm",
@@ -56,9 +56,9 @@
   "author": "Snyk Labs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snyk-labs/modern-npm-package/issues"
+    "url": "https://github.com/efleurine/modern-npm-package/issues"
   },
-  "homepage": "https://github.com/snyk-labs/modern-npm-package#readme",
+  "homepage": "https://github.com/efleurine/modern-npm-package#readme",
   "devDependencies": {
     "@types/mocha": "^9.1.1",
     "mocha": "^10.0.0",
